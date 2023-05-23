@@ -1,3 +1,5 @@
-# buildspace 
+# Song Lyrics Generator | Powered by GPT-3
+
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+
+This project uses the starter template [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
